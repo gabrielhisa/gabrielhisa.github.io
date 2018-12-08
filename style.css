@@ -1,0 +1,106 @@
+body {
+	font-family: 'Catamaran', sans-serif;
+	margin: 0;
+	padding: 0;
+	font-size: 1em;
+}
+
+.bs {
+	background-image: url(bs-back.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-color: rgb(73, 32, 0);
+	display: grid;
+}
+
+.abrigos {
+	background-image: url(bs-abrigos.jpg);
+	background-size: cover;
+	background-position: center;
+	background-color: rgb(73, 32, 0);
+}
+
+.fogueiras {
+	background-image: url(bs-fogueiras.jpg);
+	background-size: cover;	
+	background-attachment: fixed;
+	background-position: center;
+	display: grid;
+	background-color: rgb(73, 32, 0);
+}
+
+.form {
+	background-image: url(bs-form.jpg);
+	background-size: cover;
+	display: grid;
+	max-width: 1000px;
+	background-color: rgb(73, 32, 0);
+	color: rgb(71, 134, 71);
+	font-weight: bold;
+}
+
+.topnav {
+	margin: 5px 0px 0px 20px;
+	padding: 5px;
+	color: rgb(0, 170, 152);
+	font-family: 'Catamaran', sans-serif;
+	justify-content: space-between;
+	font-weight: bold;
+}
+
+.link {
+	color: rgb(0, 170, 152);
+	margin-left: 10px;
+}
+
+h1 {
+	margin: 15px 0px 35px 25px;
+	padding: 0;
+    font-family: 'Dokdo', cursive;
+    font-size: 8em;
+    color: rgb(0, 195, 66);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h2 {
+	margin: 20px;
+	padding: 0;	
+    font-size: 2em;
+    color: rgb(71, 134, 71);
+}
+
+p {
+	margin: 25px;
+	padding: 0;	
+	color: rgb(71, 134, 71);
+	display: grid;
+	max-width: 400px;
+	font-weight: bold;
+}
+
+ol {
+	margin: 20px 0px 0px 60px;
+	padding: 0;		
+	color: rgb(71, 134, 71);
+	display: grid;
+	max-width: 400px;
+}
+
+li {
+	margin: 15px 0px 0px 0px;
+}
+
+img {
+	margin: 0px 0px 0px 30px;
+	padding: 0;	
+	float: left;
+	width: 300px;
+	height: 200px;
+}
+
+footer {
+    color: rgb(67, 211, 116);
+    font-weight: bold;
+}
+
